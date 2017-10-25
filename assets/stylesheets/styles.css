@@ -1,0 +1,21 @@
+
+
+.zen-shares__valid {
+  color: green;
+}
+
+.zen-shares__invalid {
+  color: red;
+}
+
+body {
+  text-align: center;
+}
+
+.profit-data {
+  display: flex;
+}
+
+.profit-data div {
+  margin: 20px;
+}
